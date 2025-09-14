@@ -87,6 +87,6 @@ The objective was to configure a basic firewall on a Linux VM using UFW (Uncompl
 - Use UFW profiles for specific applications (`sudo ufw app list`).  
 - Regularly review and update firewall policies as per security requirements.  
 
----
-*Report generated from provided UFW configuration outputs and screenshots.*
+
+
 
